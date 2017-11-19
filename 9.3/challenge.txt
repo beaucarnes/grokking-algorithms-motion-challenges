@@ -1,0 +1,17 @@
+DO IT! CHALLENGE - 9.3 Dynamic Programming
+
+You have some time off work and you want to spend time vising friends. You don't have enough time to
+visit all the friends you want to visit. Given how much time it takes to visit each friend and how
+much you want to visit each friend (the value), write an algorithm to determine the maximum value you
+can get from visiting friends in the amount of time that is passed in. This is very similar to the
+knapsack problem from the video. Instead of weight you have time and instead of price you have value.
+
+CHANGE THIS FILE
+/9.3/dynamic.py
+
+RUN THIS FILE TO TEST
+/9.3/contactapp.py
+
+SOLUTION FILES
+/9.3/Solution/*
+(Don't open until you have tried the challenge yourself!)

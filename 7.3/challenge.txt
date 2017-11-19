@@ -1,0 +1,21 @@
+DO IT! CHALLENGE - 7.3 Dijkstra's Algorithm
+
+You are trying to find the fastest route from one friend's house to another friend's house. On the way,
+you want to visit other friends. This is a great problem for Dijkstra's algorithm! For this challenge,
+you will be modifying the implementation of Dijkstra's algorithm from the video. Just as
+in the video, the goal is to determine the quickest path from one node on the graph to another node on
+the graph. However, now both the start and end nodes are set by the user. Instead of just going
+one direction on the graph, each node is connected in both directions. You must change the 'find_shortest'
+function so it returns the correct total cost to get from the start to end node. Also, you must complete the
+'fill_costs_and_parents' function so it initialized the costs and parents dictionaries correctly.
+
+
+CHANGE THIS FILE
+/5.4/hashtable.py
+
+RUN THIS FILE TO TEST
+/5.4/contactapp.py
+
+SOLUTION FILES
+/5.4/Solution/*
+(Don't open until you have tried the challenge yourself!)

@@ -1,7 +1,7 @@
 '''
 ASSIGNMENT - 4.2 Quicksort
 Do not modify this file. Create the quicksort function in 'quicksort.py'.
-To check your work, run this file and test if all the print function in the menu
+To check your work, run this file and test if the print function in the menu
 works correctly.
 '''
 

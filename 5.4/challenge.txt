@@ -1,0 +1,18 @@
+DO IT! CHALLENGE - 5.4 Hash Table
+
+It was said that you’ll almost never have to implement a hash table yourself. Well, in this challenge, 
+that's exactly what you are going to do! But don't worry, it has already been started for you. You just need to finish
+`get` and the `get_hash function`. Looking at the `set` and `_set_linked_list` functions may help you with the `get`
+function. For the `get_hash` function, the important thing is returning a distinct number for each string that is
+passed in. The number should always be the same for the same string. Test you code by running 'contactapp.py'.
+
+
+CHANGE THIS FILE
+/5.4/hashtable.py
+
+RUN THIS FILE TO TEST
+/5.4/contactapp.py
+
+SOLUTION FILES
+/5.4/Solution/*
+(Don't open until you have tried the challenge yourself!)

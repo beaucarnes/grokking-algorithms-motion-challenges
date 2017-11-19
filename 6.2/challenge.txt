@@ -1,0 +1,17 @@
+DO IT! CHALLENGE - 6.2 Breadth-first search
+
+The code for the search function in 'bfs.py' comes directly from the 'Implementing the Graph' video.
+Instead of just searching for a mango seller, we now want to search for more items. Your job is to
+modify the code so it accepts both a name AND item. Return the person that is associated with the
+item that is passed in. Test you code by running 'contactapp.py'.
+
+
+CHANGE THIS FILE
+/6.2/bfs.py
+
+RUN THIS FILE TO TEST
+/6.2/contactapp.py
+
+SOLUTION FILES
+/6.2/Solution/*
+(Don't open until you have tried the challenge yourself!)

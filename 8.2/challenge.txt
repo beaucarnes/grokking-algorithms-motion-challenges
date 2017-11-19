@@ -1,0 +1,17 @@
+DO IT! CHALLENGE - 8.2 Greedy Algorithm
+
+You only have a certain amount of time to meet with your friends. Use a greedy algorithm to determine
+the best way to schedule your meetings. You want to meet with as many people as possible. You are
+given an array of people with the times they can start and end their meetings with you. Return an
+optimal schedule for meetings. This is similar to the classroom scheduling problem from the beginning
+of Unit 8, module 1.
+
+CHANGE THIS FILE
+/8.2/greedy.py
+
+RUN THIS FILE TO TEST
+/8.2/contactapp.py
+
+SOLUTION FILES
+/8.2/Solution/*
+(Don't open until you have tried the challenge yourself!)

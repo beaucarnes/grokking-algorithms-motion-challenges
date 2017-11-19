@@ -1,0 +1,15 @@
+DO IT! CHALLENGE - 10.1 K-Nearest Neighbors
+
+You will be writing the complete algorithm for the movie recommendation system shown in the video.
+Given a group of friends and how they rate different categories of movies, write an algorithm that
+determines which friend has the nearest taste in moves to a specific friend whose name is passed in.
+
+CHANGE THIS FILE
+/10.1/k_nearest.py
+
+RUN THIS FILE TO TEST
+/10.1/k_nearest.py
+
+SOLUTION FILES
+/10.1/Solution/*
+(Don't open until you have tried the challenge yourself!)
